@@ -1,2 +1,4 @@
-COMP 2156 – DevOps is a course focused on modern software development practices that combine development and operations. 
+COMP 2156 – DevOps is a course focused on modern software development 
+practices that combine development and operations.
+
 The course introduces students to automation, continuous integration, continuous deployment (CI/CD), and cloud-based workflows.
