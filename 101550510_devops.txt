@@ -1,0 +1,1 @@
+Git helps me keep track of changes in my files.
