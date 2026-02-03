@@ -1,2 +1,3 @@
 Git helps me keep track of changes in my files.
 CI tools can run checks automatically after push.
+End of notes.
