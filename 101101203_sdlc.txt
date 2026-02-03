@@ -1,1 +1,1 @@
-Understand the build pipelines help manage projects in an organized manor.
+Understanding the build pipelines help manage projects in an organized manor.
