@@ -1,1 +1,3 @@
 Understanding the build pipelines helps manage projects in an organized manor. Seperating the processes helps to pinpoint issues when they arise. 
+
+Faster and more frequent releases. Automated pipelines
