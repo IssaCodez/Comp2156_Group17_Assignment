@@ -1,1 +1,1 @@
-Understanding the build pipelines help manage projects in an organized manor.
+Understanding the build pipelines helps manage projects in an organized manor. Seperating the processes helps to pinpoint issues when they arise. 
