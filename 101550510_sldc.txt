@@ -1,1 +1,2 @@
 Testing is important because it find bugs early.
+Development is when the software is released to users.
