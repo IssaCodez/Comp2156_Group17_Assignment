@@ -1,1 +1,3 @@
 A typical DevOps course includes learning the principles, practices, and tools used to automate and improve the software development and operations process. It usually starts with the fundamentals of DevOps culture and lifecycle, then moves into version control systems (like Git), continuous integration and delivery (CI/CD), and containerization using tools like Docker and Kubernetes. Courses also teach infrastructure as code, configuration management, cloud platforms, and monitoring/logging tools to support automated deployment and robust operations
+
+Kubernetes is crucial for devops engineers nowadays. 
