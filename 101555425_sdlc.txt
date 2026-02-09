@@ -1,0 +1,1 @@
+DevOps has a vital role in the SDLC by automating and intergrating the efforts of the team. 
