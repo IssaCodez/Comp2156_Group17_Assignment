@@ -1,0 +1,3 @@
+In DevOps, the Software Development Life Cycle (SDLC) is a continuous and automated process.
+DevOps integrates development and operations to improve collaboration, speed, and quality throughout all SDLC stages.
+By using tools for automation, CI/CD, monitoring, and feedback, DevOps helps teams deliver software faster and more reliably.
