@@ -1,1 +1,2 @@
 DevOps has a vital role in the SDLC by automating and intergrating the efforts of the team. 
+With the use of CI, code changes are automatically build and test which can help to find early bugs to fix.
