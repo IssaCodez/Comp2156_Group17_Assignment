@@ -7,3 +7,5 @@ Git and GitHub workflow
 Branching and pull requests
 
 CI with GitHub Actions
+
+Overall, this topic is important for real work and teamwork.
