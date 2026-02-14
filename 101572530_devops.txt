@@ -1,0 +1,3 @@
+DevOps is about collaboration between development and operations teams. It helps improve communication, automate processes, and deliver software faster and more reliably.
+
+This course is helping me understand how software is managed in real companies. It also improves my version control skills and teaches me how to work in a team environment.
