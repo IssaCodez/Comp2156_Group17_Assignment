@@ -1,1 +1,12 @@
-***** 	DevOps | Group 17  *****
+# DevOps | Group 17
+
+## COMP2156 – DevOps  
+**Repository:** `COMP2156_Group17_Assignment`
+
+---
+
+## Group Members
+
+| Name | Student ID | Branch Name |
+|------|------------|------------|
+| Basit Adewale Ibitoye | 101572530 | 101572530-Basit |

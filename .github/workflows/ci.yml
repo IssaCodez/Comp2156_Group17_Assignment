@@ -1,0 +1,45 @@
+name: Group 17 CI
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Get the code
+        uses: actions/checkout@v4
+
+      - name: Check required files exist
+        run: |
+          echo "Checking group files..."
+
+          # If any file is missing, the workflow will fail
+          test -f 101101203_gb.txt
+          test -f 101101203_devops.txt
+          test -f 101101203_sdlc.txt
+
+          test -f 101534387_gb.txt
+          test -f 101534387_devops.txt
+          test -f 101534387_sdlc.txt
+
+          test -f 101541313_gb.txt
+          test -f 101541313_devops.txt
+          test -f 101541313_sdlc.txt
+
+          test -f 101550510_gb.txt
+          test -f 101550510_devops.txt
+          test -f 101550510_sdlc.txt
+
+          test -f 101555425_gb.txt
+          test -f 101555425_devops.txt
+          test -f 101555425_sdlc.txt
+
+          test -f 101572530_gb.txt
+          test -f 101572530_devops.txt
+          test -f 101572530_sdlc.txt
+
+          echo "All good. Files are present."

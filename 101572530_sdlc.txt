@@ -1,0 +1,9 @@
+The Software Development Life Cycle (SDLC) includes planning, designing, developing, testing, deploying, and maintaining software. Each stage is important for building reliable applications.
+
+DevOps improves the SDLC by adding automation and continuous integration. This helps detect errors early and makes deployment smoother and faster.
+
+Learning DevOps is important because most companies use these practices today. It prepares me for real industry projects and helps me become a more complete IT professional.
+
+A simple example is when code is pushed to GitHub and the CI pipeline runs tests automatically. This helps catch issues early before deployment.
+
+Overall, this topic is important for real work and teamwork.
