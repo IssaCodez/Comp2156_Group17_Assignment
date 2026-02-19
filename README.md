@@ -9,4 +9,4 @@
 
 | Name | Student ID | Branch Name |
 |------|------------|------------|
-| Rustam Karimkhanov | 101534387 | 101535487-Rustam |
+| Rustam Karimkhanov | 101534387 | 101534387-Rustam |
