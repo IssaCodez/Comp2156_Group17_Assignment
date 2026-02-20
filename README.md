@@ -13,4 +13,5 @@
 | Issa Issa | 101101203 | 101101203-Issa | 
 | Rustam Karimkhanov | 101534387 | 101534387-Rustam |
 | Tran Minh Khoi Ngo | 101555425 | 101555425-Tran |
+| Bao Khang Dao | 101541313 | 101541313-Bao |
 
