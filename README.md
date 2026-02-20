@@ -12,4 +12,5 @@
 | Basit Adewale Ibitoye | 101572530 | 101572530-Basit |
 | Issa Issa | 101101203 | 101101203-Issa | 
 | Rustam Karimkhanov | 101534387 | 101534387-Rustam |
+| Tran Minh Khoi Ngo | 101555425 | 101555425-Tran |
 
